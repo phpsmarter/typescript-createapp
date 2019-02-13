@@ -6,6 +6,8 @@ import CounterTitle from "./CounterTitle";
 import GitHubLogo from "./GitHubLogo";
 import Title from "./Title";
 
+
+
 // An object of all possible example components that can be rendered
 const EXAMPLES = {
   Counter,
